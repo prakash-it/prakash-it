@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi 👋 I’m a Full Stack Developer currently learning and building real-world projects.  <br>I’m actively looking for a developer role where I can grow, contribute, and sharpen my skills.<br><br>🚀 Full Stack Developer | Actively Seeking Opportunities<br><br>Tech Stack: JavaScript, React, Node.js, Express, MongoDB<br><br>Full Stack Developer in learning phase | Building projects | Actively looking for job opportunities<br><br>
+Hi 👋 I’m a motivated Full Stack Developer focused on building real-world web applications.
+
+🚀 Actively seeking a developer role where I can learn, contribute, and grow as part of a team.
+
+🛠 Tech Stack: JavaScript, React, Node.js, Express, MongoDB
+<br><br>
 
 
 ## 🌐 Socials:
